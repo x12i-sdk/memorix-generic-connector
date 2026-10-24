@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/memorix-generic-connector",
+  "packageVersion": "1.8.1",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/memorix-generic-connector",
+  "usageRepository": "https://github.com/x12i-sdk/memorix-generic-connector",
+  "sourceRepository": "https://github.com/x12i/memorix-generic-connectors",
+  "sourceCommit": "e8dd8c95a7ccbf7d3aa881086974242e3dcc1e10",
+  "sourcePackageDirectory": "packages/memorix-generic-connector",
+  "example": {
+    "title": "Use the source namespace without colliding with target exports",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T15:06:34.304718+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "3bc8b1d045765d05700ec781715d8a41e5b9f97257ee5c5e1c09137ae399958b",
+    "manifestSha256": "bab3b11188b4ba833ff19ec21c18ec7ed621c9c3580d78234038412fa420ac00"
+  },
+  "validationFiles": {
+    "src/index.mjs": "3bc8b1d045765d05700ec781715d8a41e5b9f97257ee5c5e1c09137ae399958b"
+  }
+}

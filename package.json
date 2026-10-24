@@ -1,0 +1,22 @@
+{
+  "name": "memorix-generic-connector-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/memorix-generic-connector: use the source namespace without colliding with target exports.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/memorix-generic-connector": "1.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/memorix-generic-connector.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/memorix-generic-connector"
+}
